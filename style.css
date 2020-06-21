@@ -21,23 +21,6 @@ body{
     
 }
 
-/* a{
-    color: black;
-    text-decoration: none;
-}
-a:hover {
-    cursor: pointer;
-    text-decoration: none;
-  }
-a:focus{
-    color: black;
-    text-decoration: none;
-}
-a:active{
-    color: black;
-    text-decoration: none;
-} */
-
 .card {
     position: relative;
     overflow: hidden;
@@ -87,11 +70,9 @@ a:active{
 
 .col-md-4{
     margin-top: 20px;
-    margin-bottom: 20px;
-    height:400px;
     align-items: center;
-
 }
+
 .imgimg-fluid{
     margin-top: 20px;
     padding-top: 20px;
@@ -123,10 +104,7 @@ div{
 }
 
 p{
-    /* margin-left: 230px; */
     text-align: left;
-    /* margin-right: 220px; */
-
 }
 
 h6{
